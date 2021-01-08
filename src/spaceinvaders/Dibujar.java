@@ -347,7 +347,7 @@ public void ciclo1(){
             }
         }
         if(Inv[0][0].getMuertos()==60){
-            JOptionPane.showMessageDialog(null, "A matado a los Invasores", "Juego Terminado", JOptionPane.YES_NO_OPTION);
+            JOptionPane.showMessageDialog(null, "Genial, matado a los Invasores", "Juego Terminado", JOptionPane.YES_NO_OPTION);
         } else {
             JOptionPane.showMessageDialog(null, "Ganan los Invasores", "Juego Terminado",  JOptionPane.YES_NO_OPTION);
         }
