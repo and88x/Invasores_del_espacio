@@ -12,4 +12,11 @@ Este programa fue desarrollado como parte del **examen de medio semestre** de la
 
 ---
 
+### Comandos
+
+- Mover a la derecha: tecla derecha
+- Mover a la izquierda: tecla izquierda
+- Disparar: tecla espacio
+
+---
 ![Texto alternativo](./imagen.png)
